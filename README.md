@@ -1,4 +1,4 @@
-교회일 빨리 하려고 만듦
+교회 ppt 빨리 만들려고 만듦
 
 ## [python-pptx](https://python-pptx.readthedocs.io/en/latest/)
 * [ppt 슬라이드 복제](https://hleecaster.com/python-pptx-duplicate-slide/)
